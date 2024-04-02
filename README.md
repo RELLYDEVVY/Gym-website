@@ -5,6 +5,8 @@
 ## Description
 A landing page for those looking to have fun and become a part of the gym.
 
+https://gymnast-web.netlify.app/
+
 ## Features
 This project contains a slider of images with AOS for animations.
 Responsive design for various screen sizes
