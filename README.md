@@ -30,9 +30,7 @@ React - The web framework used
 AOS - Animate On Scroll Library for animations
 
 
-Authors
-Gabriel - GYM-Website - RELLYDEVVY
-See also the list of contributors who participated in this project.
+Author: Gabriel - GYM-Website - RELLYDEVVY
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
